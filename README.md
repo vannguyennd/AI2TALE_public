@@ -33,7 +33,7 @@ The "ai2tale_k1_tau0.5" folder contains our pre-trained models and corresponding
 
 If you reference our paper (and/or) use our source code samples in your work, please kindly cite our paper.
 
-@misc{nguyen2024pioneering, <br/>
+@misc{nguyen2024-ai2tale, <br/>
       title={A Pioneering Study with An Innovative Information Theory-based Approach to Enhance The Transparency in Phishing Detection}, <br/>
       author={Van Nguyen and Tingmin Wu and Xingliang Yuan and Marthie Grobler and Surya Nepal and Carsten Rudolph}, <br/>
       year={2024}, <br/>
